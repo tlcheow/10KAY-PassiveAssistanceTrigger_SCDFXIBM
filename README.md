@@ -26,3 +26,16 @@ Link: https://drive.google.com/file/d/16lzWqbQehDWBnPCHcAQbk13dGI4EqZUJ/view?usp
 Link:
 
 # What we used to build our solution
+
+10KAY application demo:
+- React Native (Expo)
+- Visual Studio Code
+- Flaticon.com
+- IBM Cloud Services
+
+Proposed devices:
+- Sensor
+- IoT (fall and presence detection)
+- Wearable device
+- Speaker
+- Voice Assistant
