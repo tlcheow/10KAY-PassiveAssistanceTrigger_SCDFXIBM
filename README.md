@@ -23,7 +23,7 @@ Link: https://drive.google.com/file/d/1bCnFITYS-sjrRXSmlUS-nrV5ydx3AXFP/view?usp
 Link: https://drive.google.com/file/d/16lzWqbQehDWBnPCHcAQbk13dGI4EqZUJ/view?usp=sharing
 
 # Running the demo 
-Link: https://github.com/tlcheow/10KAY-PassiveAssistanceTrigger_SCDFXIBM/blob/master/demo-guide/Installation.pptx
+Link: https://expo.io/@123haninn/10KAY
 
 # What we used to build our solution
 
