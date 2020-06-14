@@ -11,7 +11,7 @@ This solution aims to create a passive trigger of assistance for elderly friendl
 By creating a elderly-friendly residential environment with smart technologies, we hope to achieve an effective early intervention measures to save lives.
 
 # Pitch Video
-Link:
+Link: https://youtu.be/uNDcjI53OAY
 
 # Architecture of solution
 Link: https://drive.google.com/file/d/11AWC_L7c6WppbN42yFHR61Tt4S7C5gYn/view?usp=sharing
@@ -26,3 +26,16 @@ Link: https://drive.google.com/file/d/16lzWqbQehDWBnPCHcAQbk13dGI4EqZUJ/view?usp
 Link:
 
 # What we used to build our solution
+
+10KAY application demo:
+- React Native (Expo)
+- Visual Studio Code
+- Flaticon.com
+- IBM Cloud Services
+
+Proposed devices:
+- Sensor
+- IoT (fall and presence detection)
+- Wearable device
+- Speaker
+- Voice Assistant
