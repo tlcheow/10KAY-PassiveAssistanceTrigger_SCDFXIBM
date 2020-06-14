@@ -3,6 +3,7 @@ Hi! We are Team 10KAY
 
 # Description of problem and proposed solution
 Problem Statement: Emergency Medical Services
+
 With the rising ageing population and growing segment of vulnerable populations, the amount of elderly without a next of kin are becoming a trend. In the case when incidents that require emergency response happens, it is difficult for them to receive timely assistance. Therefore, we are proposing to use smart devices and Internet of Things (IoT) to alert nearby responders for assistance and SCDF to dispatch their resources efficiently according to the cases.
 
 This solution aims to create a passive trigger of assistance for elderly friendly residential environment through the use of technologies and IBM Cloud service.With the use of IoT and smart devices, any suspected irregularities or incidents can be detected to trigger request for assistance. This will alert nearby responders and enable SCDF to dedicate response teams based on the situation.
