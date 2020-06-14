@@ -22,8 +22,10 @@ Link: https://drive.google.com/file/d/1bCnFITYS-sjrRXSmlUS-nrV5ydx3AXFP/view?usp
 # Getting started (instructions to install required software and run demo of solution)
 Link: https://drive.google.com/file/d/16lzWqbQehDWBnPCHcAQbk13dGI4EqZUJ/view?usp=sharing
 
-# Running the demo 
+# Live Demo 
 Link: https://expo.io/@123haninn/10KAY
+- This link will expire. You might need to follow the installation instruction to run the demo.
+- If needed, you can send a request (nghaninn@gmail.com)
 
 # What we used to build our solution
 
