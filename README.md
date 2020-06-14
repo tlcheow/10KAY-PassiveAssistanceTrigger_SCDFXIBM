@@ -17,10 +17,10 @@ Link:
 Link: https://drive.google.com/file/d/11AWC_L7c6WppbN42yFHR61Tt4S7C5gYn/view?usp=sharing
 
 # Detailed description of solution
-Link: 
+Link: https://drive.google.com/file/d/1bCnFITYS-sjrRXSmlUS-nrV5ydx3AXFP/view?usp=sharing
 
 # Getting started (instructions to install required software and run demo of solution)
-Link:
+Link: https://drive.google.com/file/d/16lzWqbQehDWBnPCHcAQbk13dGI4EqZUJ/view?usp=sharing
 
 # Running the demo 
 Link:
