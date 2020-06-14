@@ -27,6 +27,9 @@ Link: https://expo.io/@123haninn/10KAY
 - This link will expire. You might need to follow the installation instruction to run the demo.
 - If needed, you can send a request (nghaninn@gmail.com)
 
+Due to time limitation, the app only have the interface for the features.
+Actual function are incomplete.
+
 # What we used to build our solution
 
 10KAY application demo:
