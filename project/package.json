@@ -29,7 +29,7 @@
     "ibmcloud-appid": "^6.1.0",
     "ibmcloud-appid-js": "^0.4.0",
     "js-file-download": "^0.4.12",
-    "log4js": "^6.3.0",
+    "log4js": "^6.4.0",
     "passport": "^0.4.1",
     "react": "~16.9.0",
     "react-dom": "~16.9.0",
